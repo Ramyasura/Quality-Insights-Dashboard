@@ -1,4 +1,5 @@
-<img width="1013" height="563" alt="image" src="https://github.com/user-attachments/assets/e7bd768c-0561-462f-9629-f1c43f75aeae" />
+<img width="987" height="552" alt="image" src="https://github.com/user-attachments/assets/dd637180-c6af-406b-8430-3fbc3285cfa6" />
+
 
 📊 Quality Insights Dashboard
 Overview
