@@ -1,4 +1,4 @@
-<img width="987" height="552" alt="image" src="https://github.com/user-attachments/assets/dd637180-c6af-406b-8430-3fbc3285cfa6" />
+<img src="./img1.png" alt="Quality Insights Dashboard Overview" width="100%"/>
 
 
 📊 Quality Insights Dashboard
@@ -15,7 +15,7 @@ Monitors auditor-wise sampling performance.
 Provides interactive filters for better data analysis.
 
 
-<img width="976" height="550" alt="image" src="https://github.com/user-attachments/assets/7f7f32c3-e536-4d87-b490-44565fc9f410" />
+<img src="./img2.png" alt="Quality Analysis Dashboard" width="100%"/>
 
 Objective -> The main goal of this project is to transform quality data into meaningful insights, identify performance gaps, reduce errors, and support better decision-making.
 
