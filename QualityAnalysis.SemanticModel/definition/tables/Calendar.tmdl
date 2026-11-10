@@ -4,13 +4,17 @@ table Calendar
 
 	column Date
 		isKey
-		formatString: General Date
+		formatString: dd mmmm yyyy
 		lineageTag: 18fdc5ea-5729-447e-af84-93d280e8a9f4
 		summarizeBy: none
 		isNameInferred
 		sourceColumn: [Date]
 
 		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+		annotation UnderlyingDateTimeDataType = Date
 
 	column Year
 		formatString: 0
